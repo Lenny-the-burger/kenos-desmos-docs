@@ -1,9 +1,5 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+Kenos engine desmos branch docs.
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/oleeskild/digitalgarden)
+Deployed using netlify, view at https://kenos-desmos.netlify.app/.
 
----
-## Custom Styling
-I encourage you to change the default styling to make the site your own. Please modify the custom-style.scss when doing so to avoid future conflict when updating the template.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c324b2f-75c8-4143-a9cc-5b0c8904f00e/deploy-status)](https://app.netlify.com/sites/kenos-desmos/deploys)
