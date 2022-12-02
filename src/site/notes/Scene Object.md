@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/scene-object/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/scene-object/"}
 ---
 
 # Scene object
