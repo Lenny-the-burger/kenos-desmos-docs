@@ -20,5 +20,5 @@ Links (outdated):
 - Enums
 - Objects
 
-🏗 **Structs:**
-- Scene object
+## 🏗 **Structs:**
+- [[Scene Object\|Scene Object]]
