@@ -22,3 +22,4 @@ Links (outdated):
 
 ## 🏗 **Structs:**
 - [[structs/Scene Object\|Scene Object]]
+- [[structs/Mesh\|Mesh]]
