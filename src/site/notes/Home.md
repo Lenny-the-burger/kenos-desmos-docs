@@ -21,4 +21,4 @@ Links (outdated):
 - Objects
 
 ## 🏗 **Structs:**
-- [[Scene Object\|Scene Object]]
+- [[structs/Scene Object\|Scene Object]]
