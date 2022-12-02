@@ -20,6 +20,7 @@ A scene object consists of an array with the following entries (by index):
  ## Methods
 List of methods associated with the scene object.
 - <font face="consolas"> <font color="orange">scene_obj</font> getObj( <font color="green">num</font> obj )</font> 
+	>Returns the scene object with global object id `obj`
 - <font face="consolas"> <font color="blue">vec3</font> getObjProp( <font color="orange">scene_obj</font> obj, <font color="purple">enum</font> prop )</font>
 - <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjPos( <font color="green">num</font> ptr )</font>
 - <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjRot( <font color="green">num</font> ptr )</font>
