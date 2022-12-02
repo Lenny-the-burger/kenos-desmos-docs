@@ -6,22 +6,21 @@
 This is what is placed in a scene to be rendered.
 
 
-### Constructor
+## Constructor
 A scene object consists of an array with the following entries (by index):
 
-**1. Position pointer**
-	- Pointer into scene object position array
-**2. Rotation pointer**
-	- Pointer into scene object rotation array
-**4. Scale pointer**
-	- Pointer into scene object rotation array
-**6. Mesh index**
-	- Global mesh index that object uses
-**7. Material index**
-	- Global material index that object uses
+| index | Name | Description | 
+| --- | --- | --- | 
+| 1 | Position pointer | Pointer into scene object position array |
+| 2 | Rotation pointer | Pointer into scene object rotation array |
+| 3 | Scale pointer | Pointer into scene object scale array |
+| 4 | Mesh index | Global mesh index that object uses |
+| 5 | Material index | Global material index that object uses |
 
-
- ### Methods
+ ## Methods
 List of methods associated with the scene object.
-- <font color="orange">scene_obj</font> 
-
+- <font face="consolas"> <font color="orange">scene_obj</font> getObj( <font color="green">num</font> obj )</font> 
+- <font face="consolas"> <font color="blue">vec3</font> getObjProp( <font color="orange">scene_obj</font> obj, <font color="purple">enum</font> prop )</font>
+- <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjPos( <font color="green">num</font> ptr )</font>
+- <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjRot( <font color="green">num</font> ptr )</font>
+- <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjScale( <font color="green">num</font> ptr )</font>
