@@ -29,3 +29,13 @@ List of methods associated with the scene object.
 - <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjPos( <font color="green">num</font> ptr )</font>
 - <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjRot( <font color="green">num</font> ptr )</font>
 - <font face="consolas"> <font color="red">INTERNAL</font> <font color="blue">vec3</font> getObjScale( <font color="green">num</font> ptr )</font>
+
+## Enums
+#### Object property enums:
+- ObjPos
+- ObjScale
+- ObjRot
+- ObjAlbedo
+- ObjRoughness
+- ObjNormalMap
+- ObjMesh
