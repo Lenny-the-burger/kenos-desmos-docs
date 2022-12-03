@@ -36,14 +36,14 @@ Equations and functions may have special keywords that help define what they do:
 	>Used in baryocentric coordinate calculation, in `isIn` equation.
 
 #### Parametric to cartesian converter functions
-All of these ar deprecated, will likely be removed. These converted parametric value `t` to cartesian coordinates. `I` is index of which screen point the casted ray belonged to.
+All of these ar deprecated, will likely be removed. These converted parametric value `t` to cartesian coordinates. `i` is index of which screen point the casted ray belonged to.
 - <font face="consolas"><font color="red">DEPRECATED</font> <font color="green">num</font> interToCartX( <font color="blue">num</font> i, <font color="blue">num</font> t )</font>
 - <font face="consolas"><font color="red">DEPRECATED</font> <font color="green">num</font> interToCartY( <font color="blue">num</font> i, <font color="blue">num</font> t )</font>
 - <font face="consolas"><font color="red">DEPRECATED</font> <font color="green">num</font> interToCartZ( <font color="blue">num</font> i, <font color="blue">num</font> t )</font>
 
 #### Array functions
 - <font face="consolas"> <font color="green">num</font> posMin( <font color="green">num[]</font> arr )</font>
-- <font face="consolas"> <font color="green">num</font> posMin( <font color="green">num[]</font> arr )</font>
+- <font face="consolas"> <font color="green">num</font> posMax( <font color="green">num[]</font> arr )</font>
 	>Returns the index of the min and max entry in `arr` respectivly.
 - <font face="consolas"> <font color="green">num[]</font> flatten( <font color="green">num[]</font> arr )</font>
 	>Flatten `arr` into the range 0 -> 1.
