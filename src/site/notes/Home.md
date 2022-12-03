@@ -15,10 +15,8 @@ Links (outdated):
 - Getting started with Kenos
 
 ## 🌎 **Globals:** 
-- Equations
-- Functions
-- Enums
-- Objects
+- [[globals/Equations\|Equations]]
+- [[globals/Objects\|Objects]]
 
 ## 🏗 **Structs:**
 - [[structs/Scene Object\|Scene Object]]
