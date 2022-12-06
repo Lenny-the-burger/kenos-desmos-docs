@@ -14,7 +14,7 @@ Links (outdated):
 
 ## For users
 - [[for users/About the Kenos engine\|About the Kenos engine]]
-- [Getting started with Kenos][Getting started]
+- [[for users/Getting started\|Getting started]]
 
 ## 🌎 **Globals:** 
 - [[globals/Equations\|Equations]]
